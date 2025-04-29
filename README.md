@@ -49,8 +49,8 @@
 ---
 
 ## 开发环境
-- .NET 8.0
-- Visual Studio 2022
+- [.NET 8.0](https://dotnet.microsoft.com/zh-cn/download/dotnet/thank-you/runtime-desktop-8.0.15-windows-x64-installer)
+- [Visual Studio 2022](https://visualstudio.microsoft.com/zh-hans/vs/)
 
 > 开发者：Lemon安全团队  
 > 联系方式：
