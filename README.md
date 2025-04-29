@@ -54,5 +54,4 @@
 
 > 开发者：Lemon安全团队  
 > 联系方式：
->
 > <img src="./pic/README/qrcode_for_gh_50d47136b186_258.jpg" alt="qrcode_for_gh_50d47136b186_258" style="float:left;" />
